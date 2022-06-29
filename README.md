@@ -9,7 +9,7 @@ Author:  Erin James Wills, ejw.data@gmail.com
 
 ## Overview  
 <hr>  
-Content used for a Tableau dashboard that explains how men and women differ in their NYC Citibike usage 
+Content used for a Tableau dashboard that explains how men and women differ in their NYC Citibike usage   
 
 <br>
 
