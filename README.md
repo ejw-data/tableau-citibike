@@ -21,7 +21,7 @@ Content used for a Tableau dashboard that explains how men and women differ in t
 ## Data Source  
 Citibike provides data at this S3 bucket:  https://s3.amazonaws.com/tripdata/index.html   
 
-A zipped version of the file is also provided.
+A zipped version of the file is also provided in the data folder
 
 <br>
 
@@ -32,6 +32,8 @@ A zipped version of the file is also provided.
 1. Clone the repo to your local machine
 1. Navigate the terminal to the repo folder
 1. Activate your environment
+1. Start a Jupyter Notebook and run `citibike-analysis.ipynb`.  This notebook only has some data validity checks.  
+1. The tableau file is too large for github but the content can be viewed at https://ejw-data.github.io/tableau-citibike/.  
 
 <br>
 
