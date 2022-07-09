@@ -1,3 +1,6 @@
+# Ignore Tableau files bc they are large
+*.twbx
+
 # Ignore all hidden files
 .*
 
